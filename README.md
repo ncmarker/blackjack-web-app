@@ -1,6 +1,6 @@
 # blackjack-web-app
 
-This independent project was designed and developed by Nick Marker in the Spring of 2023. It is a front-end only project, focusing on React, JavaScript and API usage.
+This independent project was designed and developed by Nick Marker in the Spring of 2023. It is a front-end only project, focusing on React, JavaScript and API interaction.
 
 This project makes use of the "Deck of Cards API" in order to perform actions dealing with the members within a deck of cards. Additional information regarding this API or its directions for use can be found [here](https://deckofcardsapi.com/).
 
